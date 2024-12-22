@@ -1,8 +1,8 @@
 {
   "name": "electronic-widget-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Electronic Widget for website, dashboard or control panel",
-  "main": "index.js",
+  "main": "dist/EW-bundle.js",
   "scripts": {
     "build": "webpack --mode production"
   },
