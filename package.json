@@ -1,0 +1,31 @@
+{
+  "name": "electronic-widget-js",
+  "version": "1.0.0",
+  "description": "A Electronic Widget for website, dashboard or control panel",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damp11113/ElectronicWidget.js.git"
+  },
+  "keywords": [
+    "electronic",
+    "widget"
+  ],
+  "author": "damp11113",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/damp11113/ElectronicWidget.js/issues"
+  },
+  "homepage": "https://github.com/damp11113/ElectronicWidget.js#readme",
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "babel-loader": "^9.2.1",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.0"
+  }
+}
