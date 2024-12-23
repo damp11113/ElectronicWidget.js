@@ -19,7 +19,7 @@ class VUMeter {
                 //{ value: 50, label: '0' },
                 //{ value: 100, label: '+3' }
             ], // Default text range labels
-            ColorSegments: [ // New option to define multiple color segments (if linearColor is true)
+            ColorSegments: [ 
                 { value: 0, color: '#00ff00' },
                 { value: 50, color: '#ffff00' },
                 { value: 100, color: '#ff0000' }
