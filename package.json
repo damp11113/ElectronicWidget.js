@@ -1,6 +1,6 @@
 {
   "name": "electronic-widget-js",
-  "version": "1.0.1",
+  "version": "1.2.0",
   "description": "A Electronic Widget for website, dashboard or control panel",
   "main": "dist/EW-bundle.js",
   "scripts": {
